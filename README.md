@@ -2,7 +2,7 @@
 
 Here’s an example of the bot’s embed outputs:
 
-![Bot preview](previews/prev.png)
+![Bot preview](previews/placeholder.png)
 
 # Discord Moderation & Analytics Bot
 A small Discord bot built with Python and `discord.py` that provides moderation tools and server analytics.  
