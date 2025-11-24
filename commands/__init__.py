@@ -1,0 +1,1 @@
+from .basic import setup as setup_basic # noqa: F401
