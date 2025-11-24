@@ -1,3 +1,9 @@
+## Preview
+
+Here’s an example of the bot’s embed outputs:
+
+![Bot preview](previews/prev.png)
+
 # Discord Moderation & Analytics Bot
 A small Discord bot built with Python and `discord.py` that provides moderation tools and server analytics.  
 The goal of the project was to keep the code clean, modular, and easy to extend in the future.
