@@ -6,6 +6,19 @@
 ![Last Commit](https://img.shields.io/github/last-commit/ZXRProductions/discord-moderation-bot)
 ![Issues](https://img.shields.io/github/issues/ZXRProductions/discord-moderation-bot)
 
+## Table of Contents
+
+- [Preview](#preview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Requirements](#requirements)
+- [Why SQLite?](#why-sqlite)
+- [Contributing](#contributing)
+- [License](#license)
+
+
 A modular Discord moderation bot built in Python using `discord.py`.
 It provides a simple warning system, per-server analytics, and a heartbeat task designed to keep track of the bot’s status over time. 
 The codebase is intentionally small, clean, and easy to extend, ideal for learning or building upon.
