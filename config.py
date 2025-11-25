@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-
 @dataclass
 class Config:
     token: str
