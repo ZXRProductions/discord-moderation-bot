@@ -117,7 +117,6 @@ discord-mod-bot/
 │  └─ stats.py         # /stats
 ├─ modbot.sqlite3
 └─ requirements.txt
-
 ```
 
 - **main.py**  
