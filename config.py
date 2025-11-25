@@ -10,7 +10,6 @@ class Config:
     token: str
     guild_id: int | None = None
 
-
 def load_config() -> Config:
     token = os.getenv("DISCORD_BOT_TOKEN")
     if not token:
