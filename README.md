@@ -60,6 +60,33 @@ This provides a simple “health check” for monitoring the bot’s activity.
 
 ---
 
+## Tech Stack
+
+**Language:**  
+- Python 3.10+
+
+**Frameworks & Libraries:**  
+- discord.py — Discord API wrapper  
+- python-dotenv — Environment variable management  
+- asyncio — Async event loop (standard library)
+
+**Database:**  
+- SQLite — Lightweight relational database (built into Python)
+
+**Architecture:**  
+- Modular command cogs  
+- Layered structure (commands, config, database, main runner)  
+- Slash commands (Discord interactions API)  
+- Background task (heartbeat loop)
+
+**Tooling:**  
+- Git / GitHub for version control  
+- MIT License  
+- Preview media included (`/previews/`)  
+- `.env.example` for environment setup
+
+---
+
 ## Getting Started
 
 ### 1. Install dependencies
